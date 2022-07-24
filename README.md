@@ -28,4 +28,5 @@ Need a cool visual? - we already have a tool in stock</p>
 
 <h2>Contacts</h2>
 <p>Email <a href="mailto:timotey_ya@mail.ru">timotey_ya@mail.ru</a></p>
+<p>Habr Career: <a href="https://career.habr.com/timofeyya">Go Habr</a></p>
 
