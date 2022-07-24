@@ -24,5 +24,8 @@ Need a cool visual? - we already have a tool in stock</p>
   <li>Good mood</li>
   <li>And also Golang, PHP...</li>
 </ul>
+<br>
 
+<h2>Contacts</h2>
+<p>Email <a href="mailto:timotey_ya@mail.ru">timotey_ya@mail.ru</a></p>
 
