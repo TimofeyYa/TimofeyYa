@@ -1,5 +1,5 @@
 <img src="./header.png" alt="Креатив">
-## Timofey Yakunin
+<h1>Timofey Yakunin </h1>
 
 **Lead Product Manager · Technical Project Manager**
 Cloud Infrastructure · PaaS · IaaS
